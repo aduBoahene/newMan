@@ -1,0 +1,137 @@
+
+.hero{
+	margin-top:-90px!important;
+}   
+	
+	
+	
+	/*<600 height=500px
+	betweeb 601 and 1000 h=800
+	
+	>800 h=960*/
+
+
+@media (max-width: 700px) {
+.hid500 {
+   display: none;
+  }
+   #toBeChangedFibre:before{
+	  content:"MTN�s Broadband is a high speed Fibre broadband service for Homes, Offices, Communities and housing estates which brings you high speed internet service.patrick"
+  }
+  #toBeChangedwhy:before{
+	  content:"Super-fast internet speeds.Rapid and reliable internet access.Greater bandwidth for customers."
+	  }
+	#toBeChangedFeat:before{
+		content:"Wide range of packages to choose from Data speeds of up to 60Mbps Uninterrupted Internet Access."
+		}
+	#toBeChangedPay:before{
+		content:"For one-time installation payment kindly walk into any of our Service centers and make a payment into your account."
+		}
+}
+
+@media (max-width: 320px) {
+ .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+		height: 600px !important;
+		background-size:cover;
+		max-width: 100%;
+		
+	}
+	 #toBeChangedFibre:before{
+	  content:"MTN�s Broadband is a high speed Fibre broadband service for Homes, Offices, Communities and housing estates which brings you high speed internet service.patrick"
+  }
+  #toBeChangedwhy:before{
+	  content:"Super-fast internet speeds.Rapid and reliable internet access.Greater bandwidth for customers."
+	  }
+	#toBeChangedFeat:before{
+		content:"Wide range of packages to choose from Data speeds of up to 60Mbps Uninterrupted Internet Access."
+		}
+	#toBeChangedPay:before{
+		content:"For one-time installation payment kindly walk into any of our Service centers and make a payment into your account."
+		}
+
+
+}
+
+@media screen and (min-width:1600px) and (max-width:2277px){
+   .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+		height: 1100px !important;
+		background-size:cover;
+		max-width: 100%;
+		
+	}
+}
+
+@media screen and (min-width:900px) and (max-width:1600px){
+   .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+		height: 850px !important;
+		background-size:cover;
+		max-width: 100%;
+		
+	}
+
+	  #toBeChangedFibre:before{
+	  content:"MTN’S BROADBAND IS A HIGH SPEED FIBRE BROADBAND SERVICE FOR HOMES, OFFICES, COMMUNITIES AND HOUSING ESTATES. MTN FIBRE BROADBAND BRINGS YOU HIGH SPEED INTERNET SERVICE SO YOU SURF THE INTERNET, STREAM CABLE TV CHANNELS,PLAY ONLINE GAMES, ENJOY CLEARER VIDEO CALLING AND DO SO MUCH MORE."
+  }
+  #toBeChangedwhy:before{
+	  content:"SUPER-FAST INTERNET SPEEDS.RAPID AND RELIABLE INTERNET ACCESS.GREATER BANDWIDTH FOR CUSTOMERS"
+	  }
+	#toBeChangedFeat:before{
+		content:"WIDE RANGE OF PACKAGES TO CHOOSE FROM DATA SPEEDS OF UP TO 60MBPS UNINTERRUPTED INTERNET ACCESS AFFORDABLE AND RELIABLE FIXED INTERNET AT HOME/OFFICE ACCESS TO ADDITIONAL SERVICES INCLUDING FIXED LINES, VIDEO-ON-DEMAND, ONLINE GAMES, VIDEO CONFERENCING SOLUTIONS ETC. FASTER SPEED THAN COPPER AND WIRELESS PROFESSIONAL TECHNICAL SUPPORT EASY TOP UP VIA CHEQUE, MTN MOBILE MONEY AND MTN AIRTIME"
+		}
+	#toBeChangedPay:before{
+		content:"FOR ONE-TIME INSTALLATION PAYMENT KINDLY WALK INTO ANY OF OUR SERVICE CENTERS AND MAKE A PAYMENT INTO YOUR ACCOUNT. PAYMENT CAN ALSO BE MADE THROUGH: MTN MOBILE MONEY MTN TOP UP VOUCHERS/SCRATCH CARDS BANK PAYMENT INTO MTN FTTX ACCOUNT MONTHLY PAYMENTS CAN BE DONE AT ANY OF THE MTN SERVICE CENTERS, MOBILE MONEY OR TOP UP WITH THE MTN AIRTIME VOUCHERS. CUSTOMERS CAN ALSO TOP-UP THEIR CREDIT AND CHECK THEIR BALANCE BY DIALING *5057#"
+		}
+}
+
+@media screen and (min-width:321px) and (max-width:400px){
+   .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+		height: 600px !important;
+		background-size:cover;
+		max-width: 100%;
+		
+	}
+	 #toBeChangedFibre:before{
+	  content:"MTN�s Broadband is a high speed Fibre broadband service for Homes, Offices, Communities and housing estates which brings you high speed internet service.patrick"
+  }
+  #toBeChangedwhy:before{
+	  content:"Super-fast internet speeds.Rapid and reliable internet access.Greater bandwidth for customers."
+	  }
+	#toBeChangedFeat:before{
+		content:"Wide range of packages to choose from Data speeds of up to 60Mbps Uninterrupted Internet Access."
+		}
+	#toBeChangedPay:before{
+		content:"For one-time installation payment kindly walk into any of our Service centers and make a payment into your account."
+		}
+}
+
+@media screen and (max-width:2000px){
+   .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+		/*height: 1300px !important;*/
+		background-size:cover;
+		max-width: 100%;
+		
+	}
+}
+
+
+
+@media screen and (min-width:400px) and (max-width:900px){
+   .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+		height: 850px !important;
+		/* display: block; */
+		max-width: 100%;
+		
+	}
+}
+
+@media screen and (min-width:0px) and (max-width:399px){
+   .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+		height: 850px !important;
+		/* display: block; */
+		max-width: 100%;
+		
+	}
+}
+
+
+
